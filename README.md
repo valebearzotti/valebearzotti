@@ -1,6 +1,6 @@
 ### Hi there 👋 
 #### About me :female_sign:
-- :rocket: **Full-stack** developer based in Argentina
+- :rocket: **Full-stack** developer | React & Node
 - :computer: System's Engineering student
 - :star: 22 years old
 
