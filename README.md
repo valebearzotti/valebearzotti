@@ -1,6 +1,6 @@
 ### Hi there 👋 
 #### About me :female_sign:
-- :rocket: Web3 Frontend Engineer | React
+- :rocket: Frontend Engineer | React & Next
 - :computer: System's Engineering student
 - :star: 23 years old
 
