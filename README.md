@@ -9,3 +9,4 @@ I believe:
 - celebrating someone else's success will never take away anything from your own
 - whatever you strive for you can totally get it
 - luck (and timing) has a lot to do too
+- one day I am gonna grow wings
